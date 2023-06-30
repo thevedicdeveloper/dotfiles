@@ -1,13 +1,11 @@
-os: macOS
+os: macos
 package_manager: homebrew
 tools:
   - name: git
     location: /usr/local/bin/git
-    install: true
-    export_path: true
     default: true
+    export_path: true
   - name: node
     location: /usr/local/bin/node
-    install: true
-    export_path: true
     default: true
+    export_path: true
