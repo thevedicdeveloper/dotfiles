@@ -1,0 +1,9 @@
+os: alpine
+package_manager: apk
+tools:
+  - name: git
+    location: /usr/bin/git
+    install: true
+  - name: node
+    location: /usr/bin/node
+    install: true
