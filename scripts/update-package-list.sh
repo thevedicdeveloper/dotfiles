@@ -1,5 +1,4 @@
 #!/bin/sh
-#!/bin/sh
 
 echo "====================================="
 echo "UPDATING PACKAGE LIST..."
